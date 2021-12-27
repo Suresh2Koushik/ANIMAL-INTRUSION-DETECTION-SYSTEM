@@ -18,10 +18,20 @@ With growing security systems, it is easy to find cctv cameras in every establis
 <br>
  
 Detecting animal intrusion using image processing will help the system to send out an alert to the residents nearby and take precautions. This kind of real time alert can avoid animal accidents and also can help the residents take quick actions to solve the situation.
- 
 <br>
-  
 </p>
+
+The repository includes:
+
+
+<ul>
+  <li>Documents</li>
+  <li>PPts</li>
+  <li>Project Code</li
+  <li>Project Report</li
+   <li>Reference Paper</li>
+</ul>  
+
 
 
 
