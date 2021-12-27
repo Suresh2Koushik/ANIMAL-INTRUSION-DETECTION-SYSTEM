@@ -1,7 +1,7 @@
 # ANIMAL-INTRUSION-DETECTION-SYSTEM
 This repository contains information about the project- Animal Intrusion Detection System
 
-<bold> Problem Statement </bold>
+<b> Problem Statement </b>
 
 <p>
 
