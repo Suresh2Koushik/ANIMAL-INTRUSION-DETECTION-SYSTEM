@@ -60,7 +60,7 @@ Create a virtual environment for Python
 
 <p>
  
- The required packages are listed in the requirements.text file 
+ The required packages are listed in the requirements.txt file 
  
  </p>
  
