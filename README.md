@@ -38,7 +38,16 @@ The repository includes:
 <h1> Project Setup </h1>
 
 <p>
-Project Setup
+ 
+1. Project Setup
+ 
+Before proceeding to the implementation of the project, We have to set up the required packages and files
+
+Create a virtual environment for Python
+
+<p> Reference Link to Create a virtual environment for Python using anaconda </p>
+ <a href https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/ >
+ 
  
 </p>
 
