@@ -53,5 +53,15 @@ Create a virtual environment for Python
  <a href="https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/">Reference Link</a>
 </p>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+2. Requirements
+
+
+<p>
+ 
+ The required packages are listed in the requirements.text file 
+ 
+ </p>
+ 
 
