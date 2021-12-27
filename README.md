@@ -45,10 +45,11 @@ Before proceeding to the implementation of the project, We have to set up the re
 
 Create a virtual environment for Python
 
-<p> Reference Link to Create a virtual environment for Python using anaconda </p>
 
- <a href ="https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/" > </a>
- 
+ <ul>
+  <li> Reference Link to Create a virtual environment for Python using anaconda </li>
+ </ul>
+  
  <a href="https://www.geeksforgeeks.org/set-up-virtual-environment-for-python-using-anaconda/">Reference Link</a>
 </p>
 
