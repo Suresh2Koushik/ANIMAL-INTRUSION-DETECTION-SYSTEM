@@ -28,7 +28,7 @@ The repository includes:
   <li>Documents</li>
   <li>PPts</li>
   <li>Project Code</li
-  <li>Project Report</li
+ <li>Project Report</li>
    <li>Reference Paper</li>
 </ul>  
 
