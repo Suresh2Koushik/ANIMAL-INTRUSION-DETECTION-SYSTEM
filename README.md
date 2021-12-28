@@ -63,3 +63,14 @@ Create a virtual environment for Python
  </p>
  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Project Setup.
+
+<p>
+Download the following the repository and follow the intsallation instructions given in the Readme File
+ < a href= "https://github.com/matterport/Mask_RCNN" >
+</p>
+
+
+
+
