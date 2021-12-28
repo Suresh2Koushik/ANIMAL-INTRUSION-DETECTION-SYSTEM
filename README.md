@@ -39,7 +39,7 @@ The repository includes:
 
 <p>
  
-1. Project Setup
+1. Virtual Environment
  
 Before proceeding to the implementation of the project, We have to set up the required packages and files
 
@@ -64,15 +64,37 @@ Create a virtual environment for Python
  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. Project Setup.
+3. Project Setup
 
 <p>
-Download the following the repository and follow the intsallation instructions given in the Readme File
+
+ Download the following the repository and follow the intsallation instructions given in the Readme File
  
  <a href="https://github.com/matterport/Mask_RCNN" > Reference Link </a>
- 
+
 </p>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+4. Main Code
+
+<p>
+ 
+ Create a folder Inside the Mask RCNN Master, and give the name of your choice.
+ Download the repository content in this new folder
+ 
+ </p>
+ 
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. Code Exceution
+
+<p>
+ 
+ 
+
+</p>
 
 
