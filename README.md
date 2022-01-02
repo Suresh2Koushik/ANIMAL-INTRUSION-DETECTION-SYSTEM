@@ -86,6 +86,14 @@ Create a virtual environment for Python
  </p>
  
  
+ <p>
+ 
+ 
+ < a href= "https://www.twilio.com/docs/libraries/python" >Referenc Link </a> 
+ 
+ Follow the twilio documentation and do the required steps
+ 
+ </p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -93,7 +101,7 @@ Create a virtual environment for Python
 
 <p>
  
- 
+ Execute the python file, python video_demo0.py  
 
 </p>
 
